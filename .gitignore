@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+build/
+*.gradle
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Game files
+.log
+*.log
+
+# Dependencies
+libs/
+
+# Runtime
+out/
+dist/
